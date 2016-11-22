@@ -1,0 +1,8 @@
+
+python im2rec_Windows.py --list=True --exts=.jpg --recursive=True D:\workspace_other\python_space\chinese D:\workspace_other\python_space\chinese\
+
+
+python im2rec_Windows.py  D:\workspace_other\python_space\ D:\workspace_other\python_space\chinese
+
+
+python train_lenet.py --data-dir=D:\workspace_other\python_space\
